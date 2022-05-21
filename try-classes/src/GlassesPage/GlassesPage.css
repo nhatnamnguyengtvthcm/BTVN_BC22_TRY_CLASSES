@@ -1,0 +1,9 @@
+.glassesPage {
+    background-image: url("/public/img/background.jpg");
+    background-size: cover;
+    height: 1000px;
+    /* z-index: -1; */
+    /* opacity: 0.5; */
+    /* position: absolute; */
+    width: 100%;
+}

@@ -1,0 +1,21 @@
+.Model {
+    /* z-index: 1; */
+    opacity: 1;
+    /* position: relative; */
+    padding-top: 100px;
+    /* z-index: 1; */
+}
+
+.ModelGlasses {
+    position: relative;
+}
+
+.wearGlasses{
+    position: absolute;
+    width: 200px;
+    height: auto;
+    /* left: 1; */
+    top: 25%;
+    left: 50%;
+    transform: translateX(-50%);
+}
